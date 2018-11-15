@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.Tests.deps.json
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.Tests.dll
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.Tests.pdb
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.dll
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/bin/Debug/netcoreapp1.1/Chess.pdb
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/obj/Debug/netcoreapp1.1/Chess.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/obj/Debug/netcoreapp1.1/Chess.Tests.dll
+/Users/Guest/Desktop/Chess.Solution/Chess.Tests/obj/Debug/netcoreapp1.1/Chess.Tests.pdb

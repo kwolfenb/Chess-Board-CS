@@ -1,4 +1,0 @@
-/Users/Guest/Desktop/Ping-Pong.Solution/Ping-Pong.Tests/bin/Debug/netcoreapp1.1/Ping-Pong.Tests.deps.json
-/Users/Guest/Desktop/Ping-Pong.Solution/Ping-Pong.Tests/bin/Debug/netcoreapp1.1/Ping-Pong.Tests.runtimeconfig.json
-/Users/Guest/Desktop/Ping-Pong.Solution/Ping-Pong.Tests/bin/Debug/netcoreapp1.1/Ping-Pong.Tests.runtimeconfig.dev.json
-/Users/Guest/Desktop/Ping-Pong.Solution/Ping-Pong.Tests/obj/Debug/netcoreapp1.1/Ping-Pong.Tests.AssemblyInfo.cs
